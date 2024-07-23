@@ -1,5 +1,9 @@
-0. FizzBuzz
+0. Server status
 #advanced
-Please take a look at my implementation of FizzBuzz in Python: source code
+I just started a new Flask project and the first thing I’m putting in place is a route for the status of my API (super important for a load balancer implementation).
 
-Something is going wrong….
+But I don’t know why it’s not working…
+
+Could you look at it and fix it please?
+
+My code is here
